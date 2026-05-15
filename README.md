@@ -156,4 +156,4 @@ Through this project, I improved my skills in:
 
 # 📸 Dashboard Preview
 
-![Dashboard Screenshot]([mobile-sales-dashboard.png](https://github.com/analystmanasi/Mobile-Sales-Dashboard/blob/main/Mobile%20Sales%20Dashboard.png?raw=true))
+![Dashboard Screenshot](https://github.com/analystmanasi/Mobile-Sales-Dashboard/blob/main/Mobile%20Sales%20Dashboard.png)
